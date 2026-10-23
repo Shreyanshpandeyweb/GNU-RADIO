@@ -2,10 +2,6 @@
 
 <div align="center">
 
-<img src="assets/gnu_radio_banner.png" alt="GNU Radio Communication and Signal Processing Laboratory" width="100%"/>
-
-<br><br>
-
 <img src="https://img.shields.io/badge/GNU%20Radio-3.x-blue?style=for-the-badge&logo=gnuradio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3.x-yellow?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/DSP-Signal%20Processing-purple?style=for-the-badge"/>
@@ -452,7 +448,7 @@ Future experiments may extend this repository toward more advanced topics such a
 
 ## Author
 
-**Saswati Anupama Mathan**
+**Shreyansh Pandey**
 
 M.Tech — Electronics & Communication Engineering
 Specialization: Communication

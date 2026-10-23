@@ -1,6 +1,6 @@
 # Lab 07 — Frequency Shift Keying (FSK) Modulation
 
-**Author:** Saswati Anupama Mathan  
+**Author:** Shreyansh Pandey  
 **Experiment:** Lab 07 — FSK Modulation  
 **Platform:** GNU Radio Companion
 

@@ -1,6 +1,6 @@
 # Lab 02 — AM Demodulation
 
-**Author:** Saswati Anupama Mathan  
+**Author:** Shreyansh Pandey  
 **Domain:** Analog Communication  
 **Platform:** GNU Radio Companion
 
@@ -217,6 +217,6 @@ GNU Radio provided a practical environment for observing and understanding the c
 
 ---
 
-**Author:** Saswati Anupama Mathan  
+**Author:** Shreyansh Pandey  
 **Experiment:** Lab 02 — AM Demodulation  
 **Platform:** GNU Radio Companion

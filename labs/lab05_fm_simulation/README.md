@@ -1,6 +1,6 @@
 # Lab 05 — FM Simulation
 
-**Author:** Saswati Anupama Mathan  
+**Author:** Shreyansh Pandey  
 **Domain:** Analog Communication  
 **Platform:** GNU Radio Companion
 

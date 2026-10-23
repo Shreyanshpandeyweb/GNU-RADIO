@@ -1,6 +1,6 @@
 # Lab 06 — Amplitude Shift Keying (ASK) Modulation
 
-**Author:** Saswati Anupama Mathan  
+**Author:** Shreyansh Pandey  
 **Experiment:** Lab 06 — ASK Modulation  
 **Platform:** GNU Radio Companion
 

@@ -6,7 +6,7 @@
 #
 # GNU Radio Python Flow Graph
 # Title: MULTIPATH FADING - 2 RAY WIRELESS MODEL
-# Author: SASWATI MATHAN
+# Author: Shreyansh Pandey
 # GNU Radio version: 3.10.12.0
 
 from PyQt5 import Qt

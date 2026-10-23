@@ -1,6 +1,6 @@
 # Lab 04 — DSB-SC Amplitude Modulation
 
-**Author:** Saswati Anupama Mathan  
+**Author:** Shreyansh Pandey  
 **Domain:** Analog Communication  
 **Platform:** GNU Radio Companion
 

@@ -6,7 +6,7 @@
 #
 # GNU Radio Python Flow Graph
 # Title: AM MODULATION
-# Author: SASWATI MATHAN
+# Author: Shreyansh Pandey
 # GNU Radio version: 3.10.12.0
 
 from PyQt5 import Qt

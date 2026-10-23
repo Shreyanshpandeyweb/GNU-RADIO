@@ -1,6 +1,6 @@
 # Lab 03 — AM Modulation and Demodulation
 
-**Author:** Saswati Anupama Mathan  
+**Author:** Shreyansh Pandey  
 **Domain:** Analog Communication  
 **Platform:** GNU Radio Companion
 

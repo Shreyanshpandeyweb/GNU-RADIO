@@ -1,6 +1,6 @@
 options:
   parameters:
-    author: SASWATI MATHAN
+    author: Shreyansh Pandey
     catch_exceptions: 'True'
     category: '[GRC Hier Blocks]'
     cmake_opt: ''

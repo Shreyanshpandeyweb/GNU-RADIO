@@ -1,6 +1,6 @@
 # Lab 01 — Amplitude Modulation (AM)
 
-**Author:** Saswati Anupama Mathan  
+**Author:** Shreyansh Pandey  
 **Domain:** Analog Communication / GNU Radio  
 **Software:** GNU Radio Companion (GRC)
 
@@ -670,6 +670,6 @@ GNU Radio provides a practical environment for visualizing these concepts and co
 
 ---
 
-**Author:** Saswati Anupama Mathan  
+**Author:** Shreyansh Pandey  
 **Experiment:** Lab 01 — Amplitude Modulation  
 **Platform:** GNU Radio Companion

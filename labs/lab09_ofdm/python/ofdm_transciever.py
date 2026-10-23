@@ -6,7 +6,7 @@
 #
 # GNU Radio Python Flow Graph
 # Title: OFDM TRANSCEIVER
-# Author: SASWATI MATHAN
+# Author: Shreyansh Pandey
 # Description: OFDM transceiver for audio/file transmission using GNU Radio
 # GNU Radio version: 3.10.12.0
 
